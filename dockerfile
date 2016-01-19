@@ -1,4 +1,4 @@
-racle Java 1.8.0_11 64 bit
+# oracle Java 1.8.0_11 64 bit
 # Maven 3.2.2
 # git 1.9.1
 
